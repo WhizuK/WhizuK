@@ -91,7 +91,6 @@ I'm currently studying programming at ASSEMBLY, I'm in my 2nd year and I want to
 />
 
 <br/>
-<br/>
 
 ### 📊 Stats
 
